@@ -23,6 +23,7 @@
 ## PROJECTS
 
 - [**Earthquake Analysis 1900 - 2014**](https://github.com/Sameera312001/Tableau)
+  - Tool used: Tableau
   - **Description:** Earthquake Analysis 1900 - 2014" dives into 8,313 temblors across 114 years. The dashboard exposes hotspots like Chile, Japan, and Peru, with peak activity buzzing in March - May. Average depths reached 76 km, magnitudes hovering around 4.26. From maps to scatter plots, dive deeper to uncover patterns and risks within this vast quake data treasure trove.
 
-- ****
+- **Breast cancer Detection**
