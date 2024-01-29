@@ -12,7 +12,7 @@
 
 ## EXPERIENCE
 
-- **Cognizant Technology Solutions Hyderabad, India**
+- **Cognizant Technology Solutions -	 Hyderabad, India**
   - Program Analyst Trainee **Feb 2022 - June 2022**
     - Tools Used: Tableau, Power BI, Microsoft SQL Server, Qliksense
     - Conquered a comprehensive toolkit through a rigorous program, surpassing expectations in every challenge and consistently ranking top.
