@@ -12,7 +12,7 @@
 
 ## EXPERIENCE
 
-- **Cognizant Technology Solutions -	 Hyderabad, India**
+- **Cognizant Technology Solutions - Hyderabad, India**
   - Program Analyst Trainee **Feb 2022 - June 2022**
     - Tools Used: Tableau, Power BI, Microsoft SQL Server, Qliksense
     - Conquered a comprehensive toolkit through a rigorous program, surpassing expectations in every challenge and consistently ranking top.
@@ -35,4 +35,12 @@
   - **Description:** Built a Python program for stock price forecasting using ARIMA models. Analyzing trends, seasonality, and statistics, it auto-selects the optimal model for each stock. By comparing predictions with real prices, it provides actionable insights for informed investment decisions. This project highlights my expertise in data analysis, time series forecasting, and algorithmic modeling, empowering me to navigate financial markets with data-driven precision.
 
 ##SKILLS
+
+- Databases: My SQL, MS SQL, Postgres
+- Programming Languages: C++, HTML, CSS, Java Script, BootStrap, Python, R
+- Analytics Tools: Tableau, Power BI
+- Operating Systems: Windows
+
+##CERTIFICATIONS & PUBLICATIONS
+
 
