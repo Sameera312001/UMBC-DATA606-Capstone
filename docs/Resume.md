@@ -43,4 +43,11 @@
 
 ## CERTIFICATIONS & PUBLICATIONS
 
-
+- “Big Data: Hadoop Framework, dealing with vulnerabilities, security issues and strategies”, Koppana Sreesai Sameera, Journal of Engineering, Computing and Architecture, 2021
+- “Data Science- Data Science Lifecycle”, Koppana Sreesai Sameera, Journal of Engineering, Computing and Architecture, 2021
+- “Principles, Statistics and Computational Tools for Reproducible Data Science”, EDX September 2021
+- “Python Programming”, E-Box
+- Microsoft SQL - (MS – SQL Server, T-SQL, SSMS) – Udemy
+- The Complete 2021 Web Development Boot Camp – Udemy
+- Python for Data Science – IBM Cognitive Class
+- Machine Learning with Python – IBM Cognitive Class
