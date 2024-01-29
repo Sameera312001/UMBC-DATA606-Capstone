@@ -30,5 +30,6 @@
   - **Tool Used:** Python (Deep-Learning)
   - Description:** Project includes data loading, preprocessing, and the construction of a machine learning model using the Keras library. The model creation involves the sequential model, dense layers with activation functions, and optimizer specification. Overall, it provides a comprehensive overview of the data processing and model building steps for breast cancer detection.
 
-- [**UBC Ovarian Cancer Sub-type and Outlier Detection**](https://github.com/Sameera312001/UBC-Ovarian-Cancer-Subtype-and-Outlier-Detection)
-  - Tool
+- [**Stock Price Forcasting Using ARIMA Model**](https://github.com/Sameera312001/Stock-Price-Forcasting-using-ARIMA-Model)
+  - **Tool Used:** Python (Financial Data Science)
+  - **Description:** 
