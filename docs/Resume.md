@@ -51,3 +51,15 @@
 - The Complete 2021 Web Development Boot Camp – Udemy
 - Python for Data Science – IBM Cognitive Class
 - Machine Learning with Python – IBM Cognitive Class
+
+## AWARDS & ACTIVITIES
+
+- Worked as an Asst. Administrative Manager in one of the finest, Government recognized Student Organization “Pentomino”, Jan 2020 – June 2021
+- Coordinated various events like American Rugby, Data Science Workshops, Youth Fest in intercollege technical and cultural festivals, Lovely Professional University, January 2019 – March 2020
+- Involved with an NGO named “Uma Educational and Technical Society” and conducted sports for handicapped children and distributed medals and prizes for the winners, June 2019.
+- Won 1st place in the event “Chakravyuh” (Quiz, Treasure hunt and Cycle race) conducted by the student organization “Sapphire”, March 2019
+- Attended a workshop on “Speaking Face of the Month”, organized by Learnovate, Lovely Professional University, 2019.
+- Attended a 3-day workshop on “Art of Story Telling”, organized by Soft Skills Department, Under the aegis of Centre of Professional Enhancement – 2019.
+- Attended a 4-day workshop on “Amazon Alexa Developer”, organized by Mission Towards Vision, Lovely Professional University – 2019.
+- Participated in Marathon for “National Unity”, organized by NSS, Lovely professional University – 2019.
+- Participated in “Divyagyan Yoga Samithi”, organized by NSS, Lovely Professional University – 2019.
