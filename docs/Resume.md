@@ -32,4 +32,7 @@
 
 - [**Stock Price Forcasting Using ARIMA Model**](https://github.com/Sameera312001/Stock-Price-Forcasting-using-ARIMA-Model)
   - **Tool Used:** Python (Financial Data Science)
-  - **Description:** 
+  - **Description:** Built a Python program for stock price forecasting using ARIMA models. Analyzing trends, seasonality, and statistics, it auto-selects the optimal model for each stock. By comparing predictions with real prices, it provides actionable insights for informed investment decisions. This project highlights my expertise in data analysis, time series forecasting, and algorithmic modeling, empowering me to navigate financial markets with data-driven precision.
+
+##SKILLS
+
