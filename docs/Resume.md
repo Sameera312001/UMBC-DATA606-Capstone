@@ -22,11 +22,11 @@
 
 ## PROJECTS
 
-- [**Earthquake Analysis 1900 - 2014**](https://github.com/Sameera312001/Tableau)
+- [**Earthquake Analysis 1900 - 2014**](https://github.com/Sameera312001/Earthquake-Analysis-1900-2014)
   - **Tool used:** Tableau
   - **Description:** Earthquake Analysis 1900 - 2014" dives into 8,313 temblors across 114 years. The dashboard exposes hotspots like Chile, Japan, and Peru, with peak activity buzzing in March - May. Average depths reached 76 km, magnitudes hovering around 4.26. From maps to scatter plots, dive deeper to uncover patterns and risks within this vast quake data treasure trove.
 
-- [**Breast cancer Detection**](https://github.com/Sameera312001/Deep-Learning)
+- [**Breast cancer Detection**](https://github.com/Sameera312001/Breast-cancer-Detection)
   - **Tool Used:** Python (Deep-Learning)
   - Description:** Project includes data loading, preprocessing, and the construction of a machine learning model using the Keras library. The model creation involves the sequential model, dense layers with activation functions, and optimizer specification. Overall, it provides a comprehensive overview of the data processing and model building steps for breast cancer detection.
 
