@@ -1,6 +1,6 @@
 # SREESAI SAMEERA KOPPANA
 
-![Headshot] []
+![Headshot](docs/Headshot.jpg)
 
 ## EDUCATION
 
