@@ -6,7 +6,7 @@
 
 - **Phone Number:** +1 (667)-368-8336
 - **LinkedIn:** https://www.linkedin.com/in/sameerakoppana/
-- **Github:** 
+- **Github:** https://github.com/Sameera312001?tab=repositories
 
 ## EDUCATION
 
