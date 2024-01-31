@@ -1,6 +1,6 @@
 # SREESAI SAMEERA KOPPANA
 
-![Headshot]<img src="Headshot.jpg" width="150" height="100" /> 
+<img src="Headshot.jpg" width="150" height="150" /> 
 
 ## EDUCATION
 
