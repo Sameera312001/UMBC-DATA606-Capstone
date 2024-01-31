@@ -2,6 +2,12 @@
 
 <img src="Headshot.jpg" width="150" height="150" /> 
 
+## CONTACT DETAILS
+
+- **Phone Number:** +1 (667)-368-8336
+- **LinkedIn:** https://www.linkedin.com/in/sameerakoppana/
+- **Github:** 
+
 ## EDUCATION
 
 - **University of Maryland, Baltimore County 2022 - 2024** 
