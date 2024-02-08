@@ -84,4 +84,5 @@
     - fossil_cons_change_pct 
     - fossil_share_energy 
     - fossil_cons_change_twh
-  - 
+  - **Data type:** Numeric
+- **Target:** Consumption
