@@ -22,3 +22,10 @@
     - Public Health: Fossil fuel use contributes to air pollution, causing respiratory illnesses and other health problems. Renewable energy sources offer cleaner alternatives, improving public health and well-being.
     - Knowledge & Advocacy: This project contributes valuable knowledge to the ongoing conversation about energy transition. By understanding consumption patterns, researchers, policymakers, and advocates can make informed decisions and promote wider adoption of renewable energy.
   - Therefore, analyzing renewable energy consumption isn't just about numbers; it's about understanding our progress towards a more sustainable, climate-friendly, and secure future for all.
+- **What are your research questions?**
+  - As mentioned in question 1, my research questions are:
+    - Which countries have the highest renewable energy consumption?
+    - Among the top consumers, which countries rely more heavily on clean energy sources?
+    - What is the contribution of solar energy to the total renewable energy consumption?
+    - How has the consumption of solar, wind, and hydropower changed over the past decade?
+    - Is there a correlation between the development of clean energy and fossil fuel consumption?
