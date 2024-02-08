@@ -32,5 +32,5 @@
 
 # Data
 - **Data Source:** Kaggle
-- **Data Size: 2 MB
-- **Data Shape: 
+- **Data Size:** 2 MB
+- **Data Shape:** 
