@@ -3,3 +3,5 @@
  - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
  - **Author:** Sreesai Sameera Koppana
  - **Github Profile:** https://github.com/Sameera312001
+ - **LinkedIn Profile:** https://www.linkedin.com/in/sameerakoppana/
+
