@@ -29,3 +29,8 @@
     - What is the contribution of solar energy to the total renewable energy consumption?
     - How has the consumption of solar, wind, and hydropower changed over the past decade?
     - Is there a correlation between the development of clean energy and fossil fuel consumption?
+
+# Data
+- **Data Source:** Kaggle
+- **Data Size: 2 MB
+- **Data Shape: 
