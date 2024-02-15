@@ -14,14 +14,9 @@
   - Each customer has 21 attributes describing their demographics, service usage, and billing information.
   - The target variable is "Churn," indicating whether a customer left the company within the last month (Yes/No).
 - **Why does it matter?**
-  - The project on renewable energy consumption matters for several reasons:
-    - Environmental Impact: Fossil fuels, the traditional energy source, release greenhouse gases that contribute to climate change. Analyzing renewable energy consumption helps us understand how effectively we're transitioning towards cleaner energy sources, mitigating climate change's devastating impacts.
-    - Sustainability: Fossil fuels are finite resources, and their depletion poses a long-term concern. Renewable energy sources, like solar and wind, are naturally replenished, ensuring a sustainable energy future for generations to come.
-    - Economic Development: Investing in renewable energy creates new jobs in manufacturing, installation, and maintenance, boosting economies and diversifying energy sectors. Understanding consumption patterns helps assess economic potential and guide investments.
-    - Energy Security: Reliance on imported fossil fuels creates vulnerabilities to price fluctuations and geopolitical situations. By analyzing renewable energy consumption, we can assess progress towards energy independence and national security.
-    - Public Health: Fossil fuel use contributes to air pollution, causing respiratory illnesses and other health problems. Renewable energy sources offer cleaner alternatives, improving public health and well-being.
-    - Knowledge & Advocacy: This project contributes valuable knowledge to the ongoing conversation about energy transition. By understanding consumption patterns, researchers, policymakers, and advocates can make informed decisions and promote wider adoption of renewable energy.
-  - Therefore, analyzing renewable energy consumption isn't just about numbers; it's about understanding our progress towards a more sustainable, climate-friendly, and secure future for all.
+  - Customer churn is a significant challenge for telecom companies, as it can lead to lost revenue, decreased profitability, and damage to the company's reputation. 
+  - Studies have shown that acquiring new customers can be five to seven times more expensive than retaining existing ones. 
+  - Therefore, it is crucial for telecom companies to understand the factors that contribute to customer churn and develop strategies to prevent it.
 - **What are your research questions?**
   - As mentioned in question 1, my research questions are:
     - Which countries have the highest renewable energy consumption?
