@@ -18,66 +18,39 @@
   - Studies have shown that acquiring new customers can be five to seven times more expensive than retaining existing ones. 
   - Therefore, it is crucial for telecom companies to understand the factors that contribute to customer churn and develop strategies to prevent it.
 - **What are your research questions?**
-  - As mentioned in question 1, my research questions are:
-    - Which countries have the highest renewable energy consumption?
-    - Among the top consumers, which countries rely more heavily on clean energy sources?
-    - What is the contribution of solar energy to the total renewable energy consumption?
-    - How has the consumption of solar, wind, and hydropower changed over the past decade?
-    - Is there a correlation between the development of clean energy and fossil fuel consumption?
+  - What's the % of Churn Customers and customers that keep in with the active services?
+  - Is there any patterns in Churn Customers based on the gender?
+  - Is there any patterns/preference in Churn Customers based on the type of service provided?
+  - What's the most profitable service types?
+  - Which features and services are most profitable?
 
 # Data
 - **Data Source:** Kaggle
-- **Data Size:** 2 MB
-- **Data Shape:** 652*128
-- **Time Period:** 1900-2021
-- Each row represents country's annual consumption
+- **Data Size:** 955 KB
+- **Data Shape:** 7044*21
+- Each row represents customer
 - **Data Dictionary:**
   - **Columns:**
-    - iso_code 
-    - coal_prod_change_pct 
-    - coal_prod_change_twh  
-    - gas_prod_change_pct 
-    - gas_prod_change_twh 
-    - oil_prod_change_pct 
-    - oil_prod_change_twh 
-    - energy_cons_change_pct 
-    - energy_cons_change_twh
-    - biofuel_share_elec 
-    - biofuel_cons_change_pct 
-    - biofuel_share_energy 
-    - biofuel_cons_change_twh 
-    - biofuel_consumption 
-    - biofuel_elec_per_capita 
-    - biofuel_cons_per_capita 
-    - carbon_intensity_elec 
-    - coal_share_elec 
-    - coal_cons_change_pct 
-    - coal_share_energy 
-    - coal_cons_change_twh
-    - coal_consumption 
-    - coal_elec_per_capita 
-    - coal_cons_per_capita 
-    - coal_production 
-    - coal_prod_per_capita 
-    - electricity_demand 
-    - electricity_generation 
-    - greenhouse_gas_emissions 
-    - biofuel_electricity 
-    - coal_electricity 
-    - fossil_electricity 
-    - gas_electricity 
-    - hydro_electricity 
-    - nuclear_electricity 
-    - oil_electricity 
-    - other_renewable_electricity 
-    - other_renewable_exc_biofuel_electricity 
-    - renewables_electricity 
-    - solar_electricity 
-    - wind_electricity 
-    - energy_per_gdp 
-    - energy_per_capita 
-    - fossil_cons_change_pct 
-    - fossil_share_energy 
-    - fossil_cons_change_twh
-  - **Data type:** Numeric
-- **Target:** Consumption
+    - customerID
+    - gender
+    - SeniorCitizen
+    - Partner
+    - Dependents
+    - tenure
+    - PhoneService
+    - MultipleLines
+    - InternetService
+    - OnlineSecurity
+    - OnlineBackup
+    - DeviceProtection
+    - TechSupport
+    - StreamingTV
+    - StreamingMovies
+    - Contract
+    - PaperlessBilling
+    - PaymentMethod
+    - MonthlyCharges
+    - TotalCharges
+    - Churn
+  - **Data type:** Numerical and Categorical
+- **Target:** Churn
