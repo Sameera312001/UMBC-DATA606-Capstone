@@ -6,13 +6,13 @@
  - **LinkedIn Profile:** https://www.linkedin.com/in/sameerakoppana/
 
 # Background
-- **What is Renewable Energy Consumption Analysis is about?**
-  - "Renewable Energy Consumption Analysis" covers data from 1900 to 2021 for 194 countries, including various aspects of energy consumption like solar, wind, hydro, and fossil fuels. This allows for a vast scope of analysis possibilities like :
-    - Which countries have the highest renewable energy consumption?
-    - Among the top consumers, which countries rely more heavily on clean energy sources?
-    - What is the contribution of solar energy to the total renewable energy consumption?
-    - How has the consumption of solar, wind, and hydropower changed over the past decade?
-    - Is there a correlation between the development of clean energy and fossil fuel consumption?
+- **What is Telecom Customer Churn Prediction is about?**
+  - Customer churn is defined as when customers discontinue services from a firm.
+  - In this competitive businessess telecommunications have a churn rate of 15-25%.
+  - For a telecom company to successfully expand its territory and retain customers, it needs to prioritize understanding individual customers and building their loyalty. This is because customers are the core element of success in this competitive market.
+  - The dataset contains information on 7,043 customers of a telecommunications company.
+  - Each customer has 21 attributes describing their demographics, service usage, and billing information.
+  - The target variable is "Churn," indicating whether a customer left the company within the last month (Yes/No).
 - **Why does it matter?**
   - The project on renewable energy consumption matters for several reasons:
     - Environmental Impact: Fossil fuels, the traditional energy source, release greenhouse gases that contribute to climate change. Analyzing renewable energy consumption helps us understand how effectively we're transitioning towards cleaner energy sources, mitigating climate change's devastating impacts.
