@@ -117,3 +117,4 @@
   - Best Hyperparameters: {'gb__n_estimators': 50, 'lr__C': 10, 'rf__n_estimators': 100}
   - Test Accuracy: 0.808
   - Mean Cross-Validation Score: 0.802
+- After evaluating multiple models including AdaBoost, Random Forest, Logistic Regression, Gradient Boosting, and a Voting Classifier, it's evident that AdaBoost outperforms the others in both overall accuracy and recall for class 1. While Random Forest and Logistic Regression show competitive performance, they struggle in correctly identifying positive cases. Similarly, Gradient Boosting, despite its high accuracy, faces similar challenges. The Voting Classifier, leveraging a combination of models, offers comparable accuracy to AdaBoost but with slightly lower precision and recall. Consequently, AdaBoost emerges as the optimal choice for this task.
