@@ -1,4 +1,4 @@
-## Sreesai Sameera Koppana Spring, 2024
+## Sreesai Sameera Koppana, Spring_2024
 
 # Title and Author
  - **Project Title:** Telecom Customer Churn Prediction
