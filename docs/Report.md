@@ -1,6 +1,9 @@
-# Title & Author
-- **Project Title:** Telecom Customer Churn Prediction
-- **GitHub Link:** https://github.com/Sameera312001/UMBC-DATA606-Capstone
+# Title and Author
+ - **Project Title:** Telecom Customer Churn Prediction
+ - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
+ - **Author:** Sreesai Sameera Koppana
+ - **Github Profile:** https://github.com/Sameera312001/UMBC-DATA606-Capstone
+ - **LinkedIn Profile:** https://www.linkedin.com/in/sameerakoppana/
 
 # Background
 - In the dynamic landscape of the telecommunications industry, customer churn presents a formidable challenge for service providers. With an annual churn rate ranging from 15-25 percent, companies face the constant threat of losing customers to competitors in this fiercely competitive market. Despite recognizing the importance of individualized customer retention efforts, the sheer scale of customer bases makes it impractical for firms to dedicate significant resources to each customer. However, by identifying high-risk clients—those likely to churn—companies can strategically focus retention efforts to maximize revenue and minimize costs.
