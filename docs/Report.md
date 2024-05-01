@@ -87,3 +87,7 @@
     - Median (50th Percentile): 1,397.475
     - 75th Percentile (Q3): 3,794.7375
     - Maximum: 8,684.8
+
+- **Data Visualizations**
+- **Correlation of Features w.r.t Churn**
+  - From the customer churn correlation matrix, I observed that 
