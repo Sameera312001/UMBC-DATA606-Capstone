@@ -11,3 +11,34 @@
 - To effectively combat churn, telecom companies must adopt a holistic approach to understanding customer behavior across multiple touchpoints. By analyzing customer interactions such as store visits, purchase histories, customer service calls, online transactions, and social media engagement, companies can gain valuable insights into potential churn indicators. This comprehensive view enables proactive intervention to mitigate customer attrition and preserve market position.
 
 - Moreover, addressing churn not only safeguards existing market share but also paves the way for growth and profitability. As companies retain more customers within their network, the cost of customer acquisition decreases, and profitability increases. Therefore, reducing client attrition and implementing effective retention strategies emerge as pivotal factors for success in the telecommunications industry. By leveraging predictive analytics and actionable insights, companies can cultivate customer loyalty, drive sustainable growth, and thrive in this competitive landscape.
+
+# Data
+- **Data Source:** Kaggle
+- **Data Size:** 955 KB
+- **Data Shape:** 7044*21
+- Each row represents customer
+- **Data Dictionary:**
+  - **Columns:**
+    - customerID
+    - gender
+    - SeniorCitizen
+    - Partner
+    - Dependents
+    - tenure
+    - PhoneService
+    - MultipleLines
+    - InternetService
+    - OnlineSecurity
+    - OnlineBackup
+    - DeviceProtection
+    - TechSupport
+    - StreamingTV
+    - StreamingMovies
+    - Contract
+    - PaperlessBilling
+    - PaymentMethod
+    - MonthlyCharges
+    - TotalCharges
+    - Churn
+  - **Data type:** Numerical and Categorical
+- **Target:** Churn
