@@ -50,4 +50,40 @@
 
 # Results Of EDA
 - In my dataset, I encountered 11 missing values in the 'TotalCharges' column. Notably, the 'tenure' value for these entries was also 0, despite the 'MonthlyCharges' column containing non-empty values. To ensure data integrity, I opted to remove these 11 rows from the dataset. With this adjustment, my dataset is now considered clean and ready for further analysis. Subsequently, I proceeded to conduct visualizations, preprocessing steps, and summary statistics to gain deeper insights into the data.
-- **Summary Statistics:** 
+- **Summary Statistics**
+  - SeniorCitizen:
+    - Count: 7,032
+Mean: 0.1624
+Standard Deviation: 0.3688
+Minimum: 0
+25th Percentile (Q1): 0
+Median (50th Percentile): 0
+75th Percentile (Q3): 0
+Maximum: 1
+tenure:
+Count: 7,032
+Mean: 32.4218
+Standard Deviation: 24.5453
+Minimum: 1
+25th Percentile (Q1): 9
+Median (50th Percentile): 29
+75th Percentile (Q3): 55
+Maximum: 72
+MonthlyCharges:
+Count: 7,032
+Mean: 64.7982
+Standard Deviation: 30.0860
+Minimum: 18.25
+25th Percentile (Q1): 35.5875
+Median (50th Percentile): 70.35
+75th Percentile (Q3): 89.8625
+Maximum: 118.75
+TotalCharges:
+Count: 7,032
+Mean: 2,283.3004
+Standard Deviation: 2,266.7714
+Minimum: 18.8
+25th Percentile (Q1): 401.45
+Median (50th Percentile): 1,397.475
+75th Percentile (Q3): 3,794.7375
+Maximum: 8,684.8
