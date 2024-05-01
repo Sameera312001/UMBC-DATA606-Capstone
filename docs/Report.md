@@ -1,6 +1,7 @@
+## Sreesai Sameera Koppana Spring, 2024
+
 # Title and Author
  - **Project Title:** Telecom Customer Churn Prediction
- - **Author:** Sreesai Sameera Koppana, Spring 2024
  - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
  - **Author:** Sreesai Sameera Koppana
  - **Github Profile:** https://github.com/Sameera312001/UMBC-DATA606-Capstone
