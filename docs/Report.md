@@ -93,4 +93,30 @@
 - **Data Preprocessing**
   - I preprocessed the dataset by encoding object-type variables to integers using LabelEncoder and standardizing numerical features via StandardScaler. Following this, I categorized the data into three groups: numerical columns, categorical columns for One-Hot Encoding, and categorical columns for Label Encoding. After segmentation, I applied StandardScaler to both training and testing sets for consistent scaling. Lastly, I verified class balance by examining churn and no-churn counts, ensuring a balanced dataset for unbiased model evaluation and decision-making.
 
+- **Results of ML**
+  - 1. AdaBoost Classifier
+    - Accuracy: 0.811
+    - Best Hyperparameters: {'learning_rate': 0.05, 'n_estimators': 200}
+    - Test Accuracy: 0.812
+    - Mean Cross-Validation Score: 0.797
+  - 2. Random Forest Classifier
+Accuracy: 0.801
+Best Hyperparameters: {'max_depth': 10, 'min_samples_split': 10, 'n_estimators': 100}
+Test Accuracy: 0.808
+  - 3. Logistic Regression
 
+Accuracy: 0.809
+Best Hyperparameters: {'C': 0.1, 'penalty': 'l2'}
+Test Accuracy: 0.808
+Mean Cross-Validation Score: 0.789
+4. Gradient Boosting Classifier
+
+Accuracy: 0.805
+Best Hyperparameters: {'learning_rate': 0.1, 'max_depth': 5, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 50}
+Test Accuracy: 0.808
+5. Voting Classifier (Final Model)
+
+Accuracy: 0.807
+Best Hyperparameters: {'gb__n_estimators': 50, 'lr__C': 10, 'rf__n_estimators': 100}
+Test Accuracy: 0.808
+Mean Cross-Validation Score: 0.802
