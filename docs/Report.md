@@ -53,15 +53,15 @@
 - **Summary Statistics**
   - SeniorCitizen:
     - Count: 7,032
-Mean: 0.1624
-Standard Deviation: 0.3688
-Minimum: 0
-25th Percentile (Q1): 0
-Median (50th Percentile): 0
-75th Percentile (Q3): 0
-Maximum: 1
-tenure:
-Count: 7,032
+    - Mean: 0.1624
+    - Standard Deviation: 0.3688
+    - Minimum: 0
+    - 25th Percentile (Q1): 0
+    - Median (50th Percentile): 0
+    - 75th Percentile (Q3): 0
+    - Maximum: 1
+  - **tenure**
+    - Count: 7,032
 Mean: 32.4218
 Standard Deviation: 24.5453
 Minimum: 1
