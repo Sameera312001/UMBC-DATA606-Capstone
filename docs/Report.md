@@ -47,3 +47,7 @@
 - **MonthlyCharges:** Monthly charges for the customer (numerical).
 - **TotalCharges:** Total charges for the customer (numerical).
 - **Churn:** Whether the customer churned (binary: "Yes" or "No").
+
+# Results Of EDA
+- In my dataset, I encountered 11 missing values in the 'TotalCharges' column. Notably, the 'tenure' value for these entries was also 0, despite the 'MonthlyCharges' column containing non-empty values. To ensure data integrity, I opted to remove these 11 rows from the dataset. With this adjustment, my dataset is now considered clean and ready for further analysis. Subsequently, I proceeded to conduct visualizations, preprocessing steps, and summary statistics to gain deeper insights into the data.
+- **Summary Statistics:** 
