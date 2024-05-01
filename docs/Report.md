@@ -4,7 +4,8 @@
  - **Project Title:** Telecom Customer Churn Prediction
  - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
  - **Author:** Sreesai Sameera Koppana
- - **Github Profile:** https://github.com/Sameera312001/UMBC-DATA606-Capstone
+ - **GitHub Profile:** https://github.com/Sameera312001
+ - **Github Project Link:** https://github.com/Sameera312001/UMBC-DATA606-Capstone
  - **Final Presentation Link:** 
  - **Youtube Video Link:** 
  - **LinkedIn Profile:** https://www.linkedin.com/in/sameerakoppana/
