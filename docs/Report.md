@@ -90,7 +90,7 @@
 - **Data Visualizations**
 - **Correlation of Features w.r.t Churn**
   - From the customer churn correlation matrix, I observed that customers who have features associated with higher spending, like long contracts (Contract tenure) and bigger bills (TotalCharges, MonthlyCharges), tend to churn more. This suggests a potential disconnect between these plans and customer needs. On the other side, customers who use additional services like online security (OnlineSecurity), phone service (PhoneService), and multiple phone lines (MultipleLines) seem less likely to churn. This implies that these services might increase customer satisfaction and loyalty.
-<img src="Correlation.png" width="350" height="300" style="text-align:center" /> 
+<img src="Correlation.png" width="350" height="300" text-align= "center" /> 
 
 - **Data Preprocessing**
   - I preprocessed the dataset by encoding object-type variables to integers using LabelEncoder and standardizing numerical features via StandardScaler. Following this, I categorized the data into three groups: numerical columns, categorical columns for One-Hot Encoding, and categorical columns for Label Encoding. After segmentation, I applied StandardScaler to both training and testing sets for consistent scaling. Lastly, I verified class balance by examining churn and no-churn counts, ensuring a balanced dataset for unbiased model evaluation and decision-making.
