@@ -72,7 +72,7 @@
 
   - Churn Distribution w.r.t Internet Service and Gender
 
-    <img src="Churn Distribution w.r.t Internet Service and Gender.png" width="550" height="300" />
+    <img src="Images/Churn Distribution w.r.t Internet Service and Gender.png" width="550" height="300" />
 
  - Dependents Churn Distribution
 
