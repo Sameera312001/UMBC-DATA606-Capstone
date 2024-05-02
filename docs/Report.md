@@ -100,6 +100,10 @@
   - Best Hyperparameters: {'learning_rate': 0.05, 'n_estimators': 200}
   - Test Accuracy: 0.812
   - Mean Cross-Validation Score: 0.797
+  - AdaBoost Classifier Confusion Matrix:
+     
+     <img src="Images/AdaBoost CM.png" width="550" height="300" />
+
 - **Random Forest Classifier**
   - Accuracy: 0.801
   - Best Hyperparameters: {'max_depth': 10, 'min_samples_split': 10, 'n_estimators': 100}
