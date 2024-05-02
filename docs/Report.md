@@ -150,3 +150,12 @@ After evaluating multiple models including AdaBoost, Random Forest, Logistic Reg
 
 # Conclusion
 In conclusion, this analysis explored various machine learning models for predicting customer churn in the telecom industry. Through rigorous evaluation and comparison of AdaBoost, Random Forest, Logistic Regression, Gradient Boosting, and a Voting Classifier, AdaBoost emerged as the most effective model for the task at hand. With its superior overall accuracy and class 1 recall, AdaBoost offers a robust solution for identifying and mitigating customer churn. The findings underscore the importance of employing advanced machine learning techniques to address complex business challenges and enhance customer retention strategies in highly competitive markets. Moving forward, leveraging AdaBoost as a predictive tool can empower telecom companies to proactively identify at-risk customers and implement targeted retention efforts, ultimately driving business growth and fostering long-term customer satisfaction.
+
+# References
+- https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction/input
+- https://www.simplilearn.com/tutorials/machine-learning-tutorial/classification-in-machine-learning
+- https://scikit-learn.org/stable/modules/ensemble.html
+- https://www.geeksforgeeks.org/voting-classifier/
+- https://www.heavy.ai/blog/top-7-ways-to-optimize-customer-retention-in-the-telecom-industry
+
+
