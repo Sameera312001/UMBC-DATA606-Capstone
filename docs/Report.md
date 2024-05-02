@@ -51,7 +51,7 @@
 # Results Of EDA
 - In my dataset, I encountered 11 missing values in the 'TotalCharges' column. Notably, the 'tenure' value for these entries was also 0, despite the 'MonthlyCharges' column containing non-empty values. To ensure data integrity, I opted to remove these 11 rows from the dataset. With this adjustment, my dataset is now considered clean and ready for further analysis. Subsequently, I proceeded to conduct visualizations, preprocessing steps, and summary statistics to gain deeper insights into the data.
 
-  <img src="No null values.png" width="150" height="700" />
+  <img src="No null values.png" width="200" height="500" />
 
 - **Summary Statistics**
 
