@@ -80,7 +80,7 @@
 
  - Churn w.r.t Online Security
 
-    <img src="Churn w.r.t Online Security.png" width="550" height="300" />
+    <img src="Churn w.r.t online Security.png" width="550" height="300" />
 
 - **Correlation of Features w.r.t Churn**
   - From the customer churn correlation matrix, I observed that customers who have features associated with higher spending, like long contracts (Contract tenure) and bigger bills (TotalCharges, MonthlyCharges), tend to churn more. This suggests a potential disconnect between these plans and customer needs. On the other side, customers who use additional services like online security (OnlineSecurity), phone service (PhoneService), and multiple phone lines (MultipleLines) seem less likely to churn. This implies that these services might increase customer satisfaction and loyalty.
