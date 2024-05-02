@@ -51,24 +51,24 @@
 # Results Of EDA
 - In my dataset, I encountered 11 missing values in the 'TotalCharges' column. Notably, the 'tenure' value for these entries was also 0, despite the 'MonthlyCharges' column containing non-empty values. To ensure data integrity, I opted to remove these 11 rows from the dataset. With this adjustment, my dataset is now considered clean and ready for further analysis. Subsequently, I proceeded to conduct visualizations, preprocessing steps, and summary statistics to gain deeper insights into the data.
 
-  <img src="No null values.png" width="200" height="500" />
+  <img src="Images/No null values.png" width="200" height="500" />
 
 - **Summary Statistics**
 
-  <img src="Summary Statistics.png" width="550" height="300" /> 
+  <img src="Images/Summary Statistics.png" width="550" height="300" /> 
 
 - **Data Visualizations**
   - Gender and Churn Distributions:
 
-    <img src="Gender and Churn Distributions.png" width="550" height="300" />
+    <img src="Images/Gender and Churn Distributions.png" width="550" height="300" />
   
   - Customer Contract Distribution:
 
-    <img src="Customer Contract Distribution.png" width="550" height="300" />
+    <img src="Images/Customer Contract Distribution.png" width="550" height="300" />
 
   - Payment Method Distribution
 
-    <img src="Payment Method Distribution.png" width="550" height="300" />
+    <img src="Images/Payment Method Distribution.png" width="550" height="300" />
 
   - Churn Distribution w.r.t Internet Service and Gender
 
@@ -76,15 +76,15 @@
 
  - Dependents Churn Distribution
 
-    <img src="Dependents Churn Distribution.png" width="550" height="300" />
+    <img src="Images/Dependents Churn Distribution.png" width="550" height="300" />
 
  - Senior Citizen Churn Distribution
 
-    <img src="Senior Citizen Churn Distribution.png" width="550" height="300" />
+    <img src="Images/Senior Citizen Churn Distribution.png" width="550" height="300" />
 
  - Churn w.r.t Online Security
 
-    <img src="Churn w.r.t online Security.png" width="550" height="300" />
+    <img src="Images/Churn w.r.t online Security.png" width="550" height="300" />
 
 - **Correlation of Features w.r.t Churn**
   - From the customer churn correlation matrix, I observed that customers who have features associated with higher spending, like long contracts (Contract tenure) and bigger bills (TotalCharges, MonthlyCharges), tend to churn more. This suggests a potential disconnect between these plans and customer needs. On the other side, customers who use additional services like online security (OnlineSecurity), phone service (PhoneService), and multiple phone lines (MultipleLines) seem less likely to churn. This implies that these services might increase customer satisfaction and loyalty.
