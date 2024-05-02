@@ -108,20 +108,43 @@
   - Accuracy: 0.801
   - Best Hyperparameters: {'max_depth': 10, 'min_samples_split': 10, 'n_estimators': 100}
   - Test Accuracy: 0.808
+  - Random Forest Confusion Matrix:
+
+     <img src="Images/Random Forest CM.png" width="550" height="300" />
+
+  - Random Forest ROC Curve:
+
+     <img src="Images/Random Forest ROC Curve.png" width="550" height="300" />
+
 - **Logistic Regression**
   - Accuracy: 0.809
   - Best Hyperparameters: {'C': 0.1, 'penalty': 'l2'}
   - Test Accuracy: 0.808
   - Mean Cross-Validation Score: 0.789
+  - Logistic Regression Confusion Matrix:
+
+     <img src="Images/Logistic Regression CM.png" width="550" height="300" />
+
+  - Logistic Regression ROC Curve:
+
+     <img src="Images/Logistic Regression ROC Curve.png" width="550" height="300" />
+
 - **Gradient Boosting Classifier**
   - Accuracy: 0.805
   - Best Hyperparameters: {'learning_rate': 0.1, 'max_depth': 5, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 50}
   - Test Accuracy: 0.808
+  - Gradient Boosting Confusion Matrix:
+
+     <img src="Images/Gradient Boosting CM.png" width="550" height="300" />
+
 - **Voting Classifier**
   - Accuracy: 0.807
   - Best Hyperparameters: {'gb__n_estimators': 50, 'lr__C': 10, 'rf__n_estimators': 100}
   - Test Accuracy: 0.808
   - Mean Cross-Validation Score: 0.802
+  - Voting Classifier Confusion Matrix:
+  
+     <img src="Images/Voting Classifier CM.png" width="550" height="300" />
 
 After evaluating multiple models including AdaBoost, Random Forest, Logistic Regression, Gradient Boosting, and a Voting Classifier, it's evident that AdaBoost outperforms the others in both overall accuracy and recall for class 1. While Random Forest and Logistic Regression show competitive performance, they struggle in correctly identifying positive cases. Similarly, Gradient Boosting, despite its high accuracy, faces similar challenges. The Voting Classifier, leveraging a combination of models, offers comparable accuracy to AdaBoost but with slightly lower precision and recall. Consequently, AdaBoost emerges as the optimal choice for this task.
 
