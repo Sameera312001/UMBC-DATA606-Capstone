@@ -18,7 +18,7 @@
 - Moreover, addressing churn not only safeguards existing market share but also paves the way for growth and profitability. As companies retain more customers within their network, the cost of customer acquisition decreases, and profitability increases. Therefore, reducing client attrition and implementing effective retention strategies emerge as pivotal factors for success in the telecommunications industry. By leveraging predictive analytics and actionable insights, companies can cultivate customer loyalty, drive sustainable growth, and thrive in this competitive landscape.
 
 # Data
-- **Data Source:** Kaggle
+- **Data Source:** Kaggle - https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction/input
 - **Data Size:** 955 KB
 - **Data Shape:** 7044*21
 - Each row represents customer
