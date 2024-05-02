@@ -56,7 +56,7 @@
 - **Data Visualizations**
   - Gender and Churn Distributions:
 
-    <img src="Gender and Churn Distrubutions.png" width="550" height="300" />
+    <img src="Gender and Churn Distributions.png" width="550" height="300" />
   
   - Customer Contract Distribution:
 
