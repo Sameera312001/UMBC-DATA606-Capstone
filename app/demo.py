@@ -18,7 +18,7 @@ def scale_tenure(tenure):
 scaler.fit([[total_charges_min], [total_charges_max]])
 def scale_total_charges(total_charges):
     return scaler.transform([[total_charges]])[0][0]
-model=joblib.load(open('model.pkl','rb'))
+model=joblib.load(open('app/model.pkl','rb'))
 
 # Define Streamlit app
 def main():
