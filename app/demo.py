@@ -4,7 +4,7 @@ import joblib
 import warnings
 warnings.filterwarnings("ignore", category=UserWarning)
 
-st.success('Sree Sai Sameera Koppana')
+st.success('Sreesai Sameera Koppana')
 # Define min-max values for tenure and total_charges
 tenure_min, tenure_max = 0, 72
 total_charges_min, total_charges_max = 18, 9000
