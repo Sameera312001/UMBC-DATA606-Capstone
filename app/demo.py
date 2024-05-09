@@ -24,7 +24,6 @@ model=joblib.load(open('app/model.pkl','rb'))
 def main():
         st.title("Telecom Customer Churn Prediction")
         st.header("Enter customer details")
-        # Example: Train AdaBoostClassifier
         st.subheader("AdaBoostClassifier")
         col1, col2, col3, col4 = st.columns(4)
         with col1:
