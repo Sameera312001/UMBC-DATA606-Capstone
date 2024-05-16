@@ -7,7 +7,7 @@
  - **GitHub Profile:** https://github.com/Sameera312001
  - **Github Project Link:** https://github.com/Sameera312001/UMBC-DATA606-Capstone
  - **Final Presentation Link:** https://github.com/Sameera312001/UMBC-DATA606-Capstone/blob/main/docs/TELECOM%20CUSTOMER%20CHURN%20PREDICTION.pptx
- - **Youtube Video Link:** 
+ - **Youtube Video Link:** https://youtu.be/BsaewxUYq90
  - **LinkedIn Profile:** https://www.linkedin.com/in/sameerakoppana/
 
 # Background
